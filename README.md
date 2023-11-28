@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
