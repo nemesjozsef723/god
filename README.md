@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Hold failed upload metrics and upload with next upload metrics (#8513)
