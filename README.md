@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
