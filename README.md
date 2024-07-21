@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Capitalize OBB acronym (#7383)
