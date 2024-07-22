@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
