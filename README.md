@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
