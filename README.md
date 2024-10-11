@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add distance calculation feature in vision-eye (#8616)
